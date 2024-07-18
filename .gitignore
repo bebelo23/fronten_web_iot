@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+
+# Not include solutions files, only for TA
+solutions/
